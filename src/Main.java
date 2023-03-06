@@ -51,5 +51,13 @@ public class Main {
 
         double quotient = 5.0/8.5;
         System.out.println("Quotient of 5.0 and 8.5 is: " + quotient);
+
+        System.out.println ("Reminder");
+        int result = 9/4;
+        System.out.println("result is: " + result);
+// modulo operator - reminder operator: 9/4 = 2 and 1 (reminder)
+        System.out.println ("Reminder");
+        result = 9%4;
+        System.out.println("and now result is: " + result);
     }
 }
