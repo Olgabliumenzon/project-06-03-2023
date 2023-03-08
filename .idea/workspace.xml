@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="refactoring package name">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/primitive_data_types/ConditionalExpressions.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="conditional statement - first example">
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/primitive_data_types/ConditionalExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/primitive_data_types/ConditionalExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678302511922</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="conditional statement - first example">
+      <created>1678303065910</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678303065910</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +238,7 @@
     <MESSAGE value="ranges explained" />
     <MESSAGE value="floating numbers ranges" />
     <MESSAGE value="refactoring package name" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring package name" />
+    <MESSAGE value="conditional statement - first example" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional statement - first example" />
   </component>
 </project>
