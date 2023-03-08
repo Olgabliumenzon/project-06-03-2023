@@ -47,7 +47,7 @@ public class Calculator {
         System.out.println("Product is: " + product);
 
         System.out.println("Calculating quotient of two numbers");
-        System.out.println("Provide fifth number: ");
+        System.out.println("Provide seventh number: ");
         int seventhNumber;
         int eightNumber;
         Scanner inputReader = new Scanner(System.in);
@@ -56,7 +56,7 @@ public class Calculator {
         System.out.println("Provide seventh number");
         eightNumber = inputReader.nextInt();
         System.out.println("You provided number: " + eightNumber);
-        int quotient = fifthNumber / sixthNumber;
+        int quotient = seventhNumber / eightNumber;
         System.out.println("Product is: " + quotient);
     }
 }
