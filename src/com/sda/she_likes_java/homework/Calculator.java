@@ -21,11 +21,11 @@ public class Calculator {
         int sum = firstNumber + secondNumber;
         System.out.println("Sum is: " + sum);
 
+        System.out.println("-----------");
         System.out.println("Calculating difference of two numbers");
         System.out.println("Provide third number: ");
         int thirdNumber;
         int fourthNumber;
-        Scanner inputReader = new Scanner(System.in);
         thirdNumber = inputReader.nextInt();
         System.out.println("You provided number: " + thirdNumber);
         System.out.println("Provide fourth number");
@@ -34,12 +34,12 @@ public class Calculator {
         int difference = thirdNumber - fourthNumber;
         System.out.println("Difference is: " + difference);
 
-
+        System.out.println("-----------");
         System.out.println("Calculating product of two numbers");
         System.out.println("Provide fifth number: ");
         int fifthNumber;
         int sixthNumber;
-        Scanner inputReader = new Scanner(System.in);
+
         fifthNumber = inputReader.nextInt();
         System.out.println("You provided number: " + fifthNumber);
         System.out.println("Provide sixth number");
@@ -48,17 +48,19 @@ public class Calculator {
         int product = fifthNumber * sixthNumber;
         System.out.println("Product is: " + product);
 
+
+        System.out.println("-----------");
         System.out.println("Calculating quotient of two numbers");
         System.out.println("Provide seventh number: ");
         int seventhNumber;
         int eightNumber;
-        Scanner inputReader = new Scanner(System.in);
+
         seventhNumber = inputReader.nextInt();
         System.out.println("You provided number: " + seventhNumber);
         System.out.println("Provide seventh number");
         eightNumber = inputReader.nextInt();
         System.out.println("You provided number: " + eightNumber);
         int quotient = seventhNumber / eightNumber;
-        System.out.println("Product is: " + quotient);
+        System.out.println("Quotient is: " + quotient);
     }
 }
