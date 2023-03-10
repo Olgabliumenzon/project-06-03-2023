@@ -2,7 +2,7 @@ package com.sda.she_likes_java.homework;
 
 import java.util.Scanner;
 
-public class BounderInDisco3 {
+public class BouncerInDisco3 {
 
     public static void main(String[] args) {
         System.out.println("Party time???");
@@ -13,16 +13,12 @@ public class BounderInDisco3 {
         Scanner inputReader = new Scanner(System.in);
         String declineMessage = "Sorry, go home:)";
         int age = inputReader.nextInt();
+        System.out.println("Let me know Your height now: ");
+        int height = inputReader.nextInt();
+        boolean isAllowedToParty = age >= 18 && height >= 200;
 
-        if (age >= 18) {
-            System.out.println("Ok, so You're adult:)");
-            System.out.println("Let me know Your height: ");
-            int height = inputReader.nextInt();
-            if (height >= 200) {
-                System.out.println("Great!!!! Welcome to the party:)");
-            } else {
-                System.out.println(declineMessage);
-            }
+        if (isAllowedToParty) {
+            System.out.println("Have a great time at party!!!");
         } else {
             System.out.println(declineMessage);
         }
