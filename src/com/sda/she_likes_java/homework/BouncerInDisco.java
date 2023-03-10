@@ -2,11 +2,9 @@ package com.sda.she_likes_java.homework;
 
 import java.util.Scanner;
 
-public class BouncerInDisco
-{
+public class BouncerInDisco {
     public static void main(String[] args) {
         System.out.println("Bouncer disco");
-
 
 
         Scanner inputReader = new Scanner(System.in);

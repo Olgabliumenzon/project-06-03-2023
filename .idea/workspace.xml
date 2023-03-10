@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Bouncer disco start of excercise">
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Bouncer disco start of excercise with correct code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/BouncerInDisco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/BouncerInDisco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678461163229</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Bouncer disco start of excercise with correct code">
+      <created>1678466363178</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678466363178</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +262,7 @@
     <MESSAGE value="conditional statement - first example" />
     <MESSAGE value="conditional statement - example with dynamic boolean expression" />
     <MESSAGE value="Bouncer disco start of excercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bouncer disco start of excercise" />
+    <MESSAGE value="Bouncer disco start of excercise with correct code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bouncer disco start of excercise with correct code" />
   </component>
 </project>
