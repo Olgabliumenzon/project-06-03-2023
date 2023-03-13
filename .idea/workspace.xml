@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Operators explained a bit with negations">
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/operators/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/operators/Operators.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Operators explained a bit with or">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/primitive_data_types/Literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678710632739</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Operators explained a bit with or">
+      <created>1678711139117</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678711139117</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,6 +334,7 @@
     <MESSAGE value="Bouncer disco version 4 with negation" />
     <MESSAGE value="Bouncer disco version 4 with negation and operator explained a bit" />
     <MESSAGE value="Operators explained a bit with negations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operators explained a bit with negations" />
+    <MESSAGE value="Operators explained a bit with or" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators explained a bit with or" />
   </component>
 </project>
