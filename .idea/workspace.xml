@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="while loop second example" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="while loop second example repeating" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +45,7 @@
       <recent name="com.sda.she_likes_java.homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WhileIGrow">
+  <component name="RunManager" selected="Application.ManyTimesWhileLoop">
     <configuration name="BouncerInDiscoVersion5DoubleAgeFromConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncerInDiscoVersion5DoubleAgeFromConsole" />
       <module name="project-06-03-2023" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.operators.Operators" />
+    <configuration name="ManyTimesWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.loops.while_loop.ManyTimesWhileLoop" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.operators.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.loops.while_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManyTimesWhileLoop" />
         <item itemvalue="Application.WhileIGrow" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.BouncersInDiscoStory" />
         <item itemvalue="Application.BouncerInDiscoVersion5DoubleAgeFromConsole" />
-        <item itemvalue="Application.Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678731257436</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="while loop second example by Ramute">
+      <created>1678731380211</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1678731380211</updated>
+    </task>
+    <task id="LOCAL-00035" summary="while loop second example repeating">
+      <created>1678731624347</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1678731624347</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,8 +390,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="with excercise 8" />
-    <MESSAGE value="packaged introduced" />
     <MESSAGE value="correct homework 8" />
     <MESSAGE value="ranges explained" />
     <MESSAGE value="floating numbers ranges" />
@@ -401,6 +413,8 @@
     <MESSAGE value="two new packages created" />
     <MESSAGE value="while loop first example" />
     <MESSAGE value="while loop second example" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loop second example" />
+    <MESSAGE value="while loop second example by Ramute" />
+    <MESSAGE value="while loop second example repeating" />
+    <option name="LAST_COMMIT_MESSAGE" value="while loop second example repeating" />
   </component>
 </project>
