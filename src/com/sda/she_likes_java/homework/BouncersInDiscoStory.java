@@ -25,7 +25,7 @@ public class BouncersInDiscoStory {
         System.out.println("How tall are You? ");
         height = inputReader.nextInt();
 
-        boolean canEnterTheParty = age >= 18 && height > 180 && isAbleToSingWell == true;
+        boolean canEnterTheParty = (age >= 18 && age <30) && height > 180 && isAbleToSingWell == true;
 
         if (canEnterTheParty) {
             System.out.println("Welcome to party!!!");
@@ -34,7 +34,7 @@ public class BouncersInDiscoStory {
 
             System.out.println("I'll try with second bouncer");
 
-            System.out.println("Second bounder is starting to ask questions");
+            System.out.println("Second bouncer is starting to ask questions");
             System.out.println("How old are You? ");
             age = inputReader.nextInt();
 
@@ -44,7 +44,7 @@ public class BouncersInDiscoStory {
             System.out.println("How tall are You? ");
             height = inputReader.nextInt();
 
-            canEnterTheParty = age >= 18 || height > 180 || isAbleToSingWell == true;
+            canEnterTheParty = (age >= 18 && age <30) || height > 180 || isAbleToSingWell == true;
 
             if (canEnterTheParty) {
                 System.out.println("Ahhh - great. Let's party");
