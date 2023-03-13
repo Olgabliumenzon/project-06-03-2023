@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Bouncer disco version 4 with negation and operator explained a bit">
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Operators explained a bit with negations">
       <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/operators/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/operators/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="C:\Users\a839562\IdeaProjects\project-06-03-2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BouncerInDiscoVersion4">
+  <component name="RunManager" selected="Application.Operators">
     <configuration name="BouncerDisco2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncerDisco2" />
       <module name="project-06-03-2023" />
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.primitive_data_types.ConditionalExpressions" />
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.operators.Operators" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.primitive_data_types.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operators" />
         <item itemvalue="Application.BouncerInDiscoVersion4" />
         <item itemvalue="Application.BouncerDisco2" />
         <item itemvalue="Application.BouncerInDiscoVersion2" />
         <item itemvalue="Application.BouncerInDisco" />
-        <item itemvalue="Application.ConditionalExpressions" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678710304619</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Operators explained a bit with negations">
+      <created>1678710632739</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678710632739</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +325,7 @@
     <MESSAGE value="Bouncer disco version 3 correct" />
     <MESSAGE value="Bouncer disco version 4 with negation" />
     <MESSAGE value="Bouncer disco version 4 with negation and operator explained a bit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bouncer disco version 4 with negation and operator explained a bit" />
+    <MESSAGE value="Operators explained a bit with negations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators explained a bit with negations" />
   </component>
 </project>
