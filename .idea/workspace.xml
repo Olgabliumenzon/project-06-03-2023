@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="while loop second example repeating" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="while loop another exampple">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/do_while/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -375,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678731624347</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="while loop another exampple">
+      <created>1678731967415</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1678731967415</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +400,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correct homework 8" />
     <MESSAGE value="ranges explained" />
     <MESSAGE value="floating numbers ranges" />
     <MESSAGE value="refactoring package name" />
@@ -415,6 +424,7 @@
     <MESSAGE value="while loop second example" />
     <MESSAGE value="while loop second example by Ramute" />
     <MESSAGE value="while loop second example repeating" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loop second example repeating" />
+    <MESSAGE value="while loop another exampple" />
+    <option name="LAST_COMMIT_MESSAGE" value="while loop another exampple" />
   </component>
 </project>
