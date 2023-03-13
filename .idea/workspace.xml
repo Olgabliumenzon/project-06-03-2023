@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="while loop another exampple">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/do_while/DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="do whole first example">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/do_while/FromDoWhileToWhileRefactoring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +47,9 @@
       <recent name="com.sda.she_likes_java.homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ManyTimesWhileLoop">
-    <configuration name="BouncerInDiscoVersion5DoubleAgeFromConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncerInDiscoVersion5DoubleAgeFromConsole" />
+  <component name="RunManager" selected="Application.FromDoWhileToWhileRefactoring">
+    <configuration name="BouncersInDiscoStory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncersInDiscoStory" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BouncersInDiscoStory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncersInDiscoStory" />
+    <configuration name="FromDoWhileToWhileRefactoring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.loops.do_while.FromDoWhileToWhileRefactoring" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.loops.do_while.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FromDoWhileToWhileRefactoring" />
         <item itemvalue="Application.ManyTimesWhileLoop" />
         <item itemvalue="Application.WhileIGrow" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.BouncersInDiscoStory" />
-        <item itemvalue="Application.BouncerInDiscoVersion5DoubleAgeFromConsole" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678731967415</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="do whole first example">
+      <created>1678733195631</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1678733195631</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -400,7 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ranges explained" />
     <MESSAGE value="floating numbers ranges" />
     <MESSAGE value="refactoring package name" />
     <MESSAGE value="conditional statement - first example" />
@@ -425,6 +430,7 @@
     <MESSAGE value="while loop second example by Ramute" />
     <MESSAGE value="while loop second example repeating" />
     <MESSAGE value="while loop another exampple" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loop another exampple" />
+    <MESSAGE value="do whole first example" />
+    <option name="LAST_COMMIT_MESSAGE" value="do whole first example" />
   </component>
 </project>
