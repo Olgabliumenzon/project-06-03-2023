@@ -5,13 +5,12 @@ public class WhileIGrow {
     public static void main(String[] args) {
         int ageOfTheKid = 1;
 
-        while (ageOfTheKid <= 18) {
-            System.out.println("Mommy can I go to disco??");
-            System.out.println("No");
+        while (ageOfTheKid<18){
+            System.out.println("Can I go to disco, I am " + ageOfTheKid + " year old");
+            System.out.println("-No");
 
-            ageOfTheKid++; // this is shorter version of:  ageOfTheKid = ageOfTheKid + 1;
+//          ageOfTheKid= ageOfTheKid + 1;
+            ageOfTheKid++;
         }
-
-        System.out.println("Go to party!!!");
+        System.out.println("I am " + ageOfTheKid + " years old, Mama: yes, go!");
     }
-}
