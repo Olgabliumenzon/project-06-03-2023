@@ -13,6 +13,8 @@ public class BouncerInDiscoVersion5DoubleAgeFromConsole {
         String declineMessage = "Sorry, go home:)";
         int age = inputReader.nextInt();
         System.out.println("Let me know Your height now: ");
+
+        // . or , is selected based on your regional sessions in your OS
         double height = inputReader.nextDouble();
         boolean isAllowedToParty = age >= 18 && height >= 200;
 
