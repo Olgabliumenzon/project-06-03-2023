@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Operators explained a bit with or">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/primitive_data_types/Literals.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Bouncer in Disco version 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,23 +43,13 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\a839562\IdeaProjects\project-06-03-2023" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sda.she_likes_java.homework" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Operators">
+  <component name="RunManager" selected="Application.BouncerInDiscoVersion5DoubleAgeFromConsole">
     <configuration name="BouncerDisco2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncerDisco2" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BouncerInDisco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncerInDisco" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
@@ -98,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BouncerInDiscoVersion5DoubleAgeFromConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncerInDiscoVersion5DoubleAgeFromConsole" />
+      <module name="project-06-03-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.operators.Operators" />
       <module name="project-06-03-2023" />
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BouncerInDiscoVersion5DoubleAgeFromConsole" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.BouncerInDiscoVersion4" />
         <item itemvalue="Application.BouncerDisco2" />
         <item itemvalue="Application.BouncerInDiscoVersion2" />
-        <item itemvalue="Application.BouncerInDisco" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678711139117</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Primitive data type literals explained">
+      <created>1678718282557</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678718282557</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Bouncer in Disco version 5">
+      <created>1678718350949</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678718350949</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,6 +351,8 @@
     <MESSAGE value="Bouncer disco version 4 with negation and operator explained a bit" />
     <MESSAGE value="Operators explained a bit with negations" />
     <MESSAGE value="Operators explained a bit with or" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operators explained a bit with or" />
+    <MESSAGE value="Primitive data type literals explained" />
+    <MESSAGE value="Bouncer in Disco version 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bouncer in Disco version 5" />
   </component>
 </project>

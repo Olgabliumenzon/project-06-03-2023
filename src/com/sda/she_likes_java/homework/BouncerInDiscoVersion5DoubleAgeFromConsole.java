@@ -2,7 +2,7 @@ package com.sda.she_likes_java.homework;
 
 import java.util.Scanner;
 
-public class BouncerInDiscoVersion5DoublrAgeFromConsole {
+public class BouncerInDiscoVersion5DoubleAgeFromConsole {
     public static void main(String[] args) {
         System.out.println("Party time???");
 
@@ -13,7 +13,7 @@ public class BouncerInDiscoVersion5DoublrAgeFromConsole {
         String declineMessage = "Sorry, go home:)";
         int age = inputReader.nextInt();
         System.out.println("Let me know Your height now: ");
-        int height = inputReader.nextInt();
+        double height = inputReader.nextDouble();
         boolean isAllowedToParty = age >= 18 && height >= 200;
 
         if (!isAllowedToParty) {
