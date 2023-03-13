@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Bouncers in Disco story" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="two new packages created">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,20 +48,7 @@
       <recent name="com.sda.she_likes_java.homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BouncersInDiscoStory">
-    <configuration name="BouncerDisco2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncerDisco2" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WhileLoop">
     <configuration name="BouncerInDiscoVersion4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BouncerInDiscoVersion4" />
       <module name="project-06-03-2023" />
@@ -111,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.loops.WhileLoop" />
+      <module name="project-06-03-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.she_likes_java.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.BouncersInDiscoStory" />
         <item itemvalue="Application.BouncerInDiscoVersion5DoubleAgeFromConsole" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.BouncerInDiscoVersion4" />
-        <item itemvalue="Application.BouncerDisco2" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678727445093</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="two new packages created">
+      <created>1678727953213</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1678727953213</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +365,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Readme file moved" />
     <MESSAGE value="calculator file created" />
     <MESSAGE value="nice calculator file created with variables" />
     <MESSAGE value="with excercise 8" />
@@ -380,6 +389,7 @@
     <MESSAGE value="Bouncer in Disco version 5" />
     <MESSAGE value="Bouncer in Disco version 5 doubles explained" />
     <MESSAGE value="Bouncers in Disco story" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bouncers in Disco story" />
+    <MESSAGE value="two new packages created" />
+    <option name="LAST_COMMIT_MESSAGE" value="two new packages created" />
   </component>
 </project>
