@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="do-while refactored to while loop">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/functions/FunctionsFirstExample.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="function - first example with several sum calculations">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/functions/CalculatorWithFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -399,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678733647068</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="function - first example">
+      <created>1678735376429</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1678735376429</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,8 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactoring package name" />
-    <MESSAGE value="conditional statement - first example" />
     <MESSAGE value="conditional statement - example with dynamic boolean expression" />
     <MESSAGE value="Bouncer disco start of excercise" />
     <MESSAGE value="Bouncer disco start of excercise with correct code" />
@@ -439,6 +444,8 @@
     <MESSAGE value="while loop another exampple" />
     <MESSAGE value="do whole first example" />
     <MESSAGE value="do-while refactored to while loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="do-while refactored to while loop" />
+    <MESSAGE value="function - first example" />
+    <MESSAGE value="function - first example with several sum calculations" />
+    <option name="LAST_COMMIT_MESSAGE" value="function - first example with several sum calculations" />
   </component>
 </project>
