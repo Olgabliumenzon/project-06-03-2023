@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="conditions -if/else branching">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/do_while/GuessTheNumberGame.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="guess the number game - with do/while loop">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/while_loop/GuessTheNumberGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
       <recent name="C:\Users\a839562\IdeaProjects\project-06-03-2023" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sda.she_likes_java.loops.while_loop" />
       <recent name="com.sda.she_likes_java.homework" />
     </key>
   </component>
@@ -434,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678904345506</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="guess the number game - with do/while loop">
+      <created>1678906624597</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1678906624597</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -449,7 +457,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bouncer disco start of excercise with short correct code from Mariusz" />
     <MESSAGE value="Bouncer disco version 3" />
     <MESSAGE value="Bouncer disco version 3 correct" />
     <MESSAGE value="Bouncer disco version 4 with negation" />
@@ -474,6 +481,7 @@
     <MESSAGE value="excercise 11 - BouncersInDiscoStoryWithFunctions" />
     <MESSAGE value="excercise 11 - BouncersInDiscoStoryWithFunctions with adjustments" />
     <MESSAGE value="conditions -if/else branching" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditions -if/else branching" />
+    <MESSAGE value="guess the number game - with do/while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="guess the number game - with do/while loop" />
   </component>
 </project>
