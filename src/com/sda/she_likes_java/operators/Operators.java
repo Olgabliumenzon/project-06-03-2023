@@ -1,7 +1,7 @@
 package com.sda.she_likes_java.operators;
 
 public class Operators {
-
+//
     public static void main(String[] args) {
         System.out.println("Now, let's try some operators");
         System.out.println("Logical operators");
