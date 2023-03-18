@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="code fixes of 15.03.2023">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="homework - guessing game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -470,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679158291665</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="homework - guessing game">
+      <created>1679159043663</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1679159043663</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Operators explained a bit with negations" />
     <MESSAGE value="Operators explained a bit with or" />
     <MESSAGE value="Primitive data type literals explained" />
     <MESSAGE value="Bouncer in Disco version 5" />
@@ -510,6 +514,7 @@
     <MESSAGE value="ability to break the loop - break instruction" />
     <MESSAGE value="ability to break the loop - break instruction with minor changes" />
     <MESSAGE value="code fixes of 15.03.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="code fixes of 15.03.2023" />
+    <MESSAGE value="homework - guessing game" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework - guessing game" />
   </component>
 </project>
