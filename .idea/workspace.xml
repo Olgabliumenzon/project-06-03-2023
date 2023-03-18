@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="ability to break the loop - break instruction with minor changes">
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="code fixes of 15.03.2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/do_while/GuessTheNumberGameWithBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/do_while/GuessTheNumberGameWithBreak.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -464,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678999611021</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="code fixes of 17.03.2023">
+      <created>1679158291665</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1679158291665</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bouncer disco version 4 with negation and operator explained a bit" />
     <MESSAGE value="Operators explained a bit with negations" />
     <MESSAGE value="Operators explained a bit with or" />
     <MESSAGE value="Primitive data type literals explained" />
@@ -504,6 +509,7 @@
     <MESSAGE value="guess the number game - with the while loop" />
     <MESSAGE value="ability to break the loop - break instruction" />
     <MESSAGE value="ability to break the loop - break instruction with minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="ability to break the loop - break instruction with minor changes" />
+    <MESSAGE value="code fixes of 15.03.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="code fixes of 15.03.2023" />
   </component>
 </project>
