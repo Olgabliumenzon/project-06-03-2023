@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="ability to break the loop - break instruction">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/do_while/GuessTheNumberGameWithBreak.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="ability to break the loop - break instruction with minor changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/do_while/GuessTheNumberGameWithBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/do_while/GuessTheNumberGameWithBreak.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678908093607</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="ability to break the loop - break instruction with minor changes">
+      <created>1678999611021</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1678999611021</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bouncer disco version 4 with negation" />
     <MESSAGE value="Bouncer disco version 4 with negation and operator explained a bit" />
     <MESSAGE value="Operators explained a bit with negations" />
     <MESSAGE value="Operators explained a bit with or" />
@@ -497,6 +503,7 @@
     <MESSAGE value="guess the number game - with do/while loop" />
     <MESSAGE value="guess the number game - with the while loop" />
     <MESSAGE value="ability to break the loop - break instruction" />
-    <option name="LAST_COMMIT_MESSAGE" value="ability to break the loop - break instruction" />
+    <MESSAGE value="ability to break the loop - break instruction with minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ability to break the loop - break instruction with minor changes" />
   </component>
 </project>
