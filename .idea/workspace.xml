@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="test of weekday with if">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/controls/WeekdaysWithSwitch.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="switch - first example with weekdays improved if/else">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/controls/NumberOfDaysInMonths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +56,7 @@
       <recent name="com.sda.she_likes_java.homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WeekdaysWithSwitch">
-    <configuration name="GuessTheNumberGameWithBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.loops.do_while.GuessTheNumberGameWithBreak" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.loops.do_while.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumberOfDaysInMonths">
     <configuration name="IncDecVersion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.operators.IncDecVersion2" />
       <module name="project-06-03-2023" />
@@ -89,6 +76,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sda.she_likes_java.operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfDaysInMonths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.controls.NumberOfDaysInMonths" />
+      <module name="project-06-03-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.she_likes_java.controls.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfDaysInMonths" />
         <item itemvalue="Application.WeekdaysWithSwitch" />
         <item itemvalue="Application.WeekdaysWithIf" />
         <item itemvalue="Application.IncDecVersion2" />
         <item itemvalue="Application.IncrementaionDecrementationExamples" />
-        <item itemvalue="Application.GuessTheNumberGameWithBreak" />
       </list>
     </recent_temporary>
   </component>
@@ -140,13 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00006" summary="with excercise 8">
-      <created>1678294718032</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1678294718033</updated>
     </task>
     <task id="LOCAL-00007" summary="with excercise 8">
       <created>1678295031547</created>
@@ -484,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679165599320</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="switch - first example with weekdays improved if/else">
+      <created>1679166453763</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1679166453763</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bouncer in Disco version 5 doubles explained" />
     <MESSAGE value="Bouncers in Disco story" />
     <MESSAGE value="two new packages created" />
     <MESSAGE value="while loop first example" />
@@ -524,6 +523,7 @@
     <MESSAGE value="incrementation - Friday party" />
     <MESSAGE value="incrementation /decrementaion - part II" />
     <MESSAGE value="test of weekday with if" />
-    <option name="LAST_COMMIT_MESSAGE" value="test of weekday with if" />
+    <MESSAGE value="switch - first example with weekdays improved if/else" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch - first example with weekdays improved if/else" />
   </component>
 </project>
