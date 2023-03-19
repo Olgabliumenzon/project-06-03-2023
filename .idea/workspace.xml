@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="java time introduction">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/Excercise12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/time_and_date/TimeAndDateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/time_and_date/TimeAndDateExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +50,19 @@
       <recent name="C:\Users\a839562\IdeaProjects\project-06-03-2023" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sda.she_likes_java.homework" />
       <recent name="com.sda.she_likes_java.controls" />
       <recent name="com.sda.she_likes_java.loops.do_while" />
       <recent name="com.sda.she_likes_java.loops.while_loop" />
-      <recent name="com.sda.she_likes_java.homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TimeAndDateExample">
-    <configuration name="IncDecVersion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.operators.IncDecVersion2" />
+  <component name="RunManager" selected="Application.Excercise12">
+    <configuration name="Excercise12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.Excercise12" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.operators.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Excercise12" />
         <item itemvalue="Application.TimeAndDateExample" />
         <item itemvalue="Application.NumberOfDaysInMonths" />
         <item itemvalue="Application.WeekdaysWithSwitch" />
         <item itemvalue="Application.WeekdaysWithIf" />
-        <item itemvalue="Application.IncDecVersion2" />
       </list>
     </recent_temporary>
   </component>
