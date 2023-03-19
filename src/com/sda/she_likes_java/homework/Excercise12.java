@@ -1,7 +1,7 @@
 package com.sda.she_likes_java.homework;
 
 import java.util.Random;
-import java.util.Scanner;
+
 
 public class Excercise12 {
 
@@ -24,27 +24,34 @@ public class Excercise12 {
 
         System.out.println("Hey, now show them sorted from smallest to largest: ");
 
-        do {
-            if (someFirstRandomNumber < someSecondRandomNumber < someThirdRandomNumber) {
-                System.out.println(+someFirstRandomNumber + someSecondRandomNumber + someThirdRandomNumber);
 
-            } else if (someFirstRandomNumber < someThirdRandomNumber < someSecondRandomNumber) {
-                System.out.println(+someFirstRandomNumber + someThirdRandomNumber + someSecondRandomNumber);
+            if (someFirstRandomNumber < someSecondRandomNumber && someSecondRandomNumber < someThirdRandomNumber) {
+                System.out.println(+ someFirstRandomNumber + someSecondRandomNumber + someThirdRandomNumber);
 
-            } else if (someSecondRandomNumber < someFirstRandomNumber < someThirdRandomNumber) {
-                System.out.println(+someSecondRandomNumber + someFirstRandomNumber + someThirdRandomNumber);
+            } else if (someFirstRandomNumber < someThirdRandomNumber && someThirdRandomNumber < someSecondRandomNumber){
+                System.out.println(+ someFirstRandomNumber + someThirdRandomNumber + someSecondRandomNumber);
 
-            } else if (someSecondRandomNumber < someThirdRandomNumber < someSecondRandomNumber) {
-                System.out.println(+someSecondRandomNumber + someThirdRandomNumber + someFirstRandomNumber);
 
-            } else if (someThirdRandomNumber < someFirstRandomNumber < someSecondRandomNumber) {
-                System.out.println(+someThirdRandomNumber + someFirstRandomNumber + someSecondRandomNumber);
+            } else if (someSecondRandomNumber < someFirstRandomNumber && someFirstRandomNumber < someThirdRandomNumber){
+                System.out.println(+ someSecondRandomNumber + someFirstRandomNumber + someThirdRandomNumber);
 
-            } else if (someThirdRandomNumber < someSecondRandomNumber < someFirstRandomNumber) {
-                System.out.println(+someThirdRandomNumber + someSecondRandomNumber + someFirstRandomNumber);
-                break;
 
-            } while (someFirstRandomNumber != someSecondRandomNumber != someThirdRandomNumber);
+            } else if (someSecondRandomNumber < someThirdRandomNumber && someThirdRandomNumber <
+                    someSecondRandomNumber) {
+                System.out.println(+ someSecondRandomNumber + someThirdRandomNumber + someFirstRandomNumber);
+
+
+            } else if (someThirdRandomNumber < someFirstRandomNumber && someFirstRandomNumber <
+                    someSecondRandomNumber) {
+                System.out.println(+ someThirdRandomNumber + someFirstRandomNumber + someSecondRandomNumber);
+
+
+            } else if (someThirdRandomNumber < someSecondRandomNumber && someSecondRandomNumber <
+                    someFirstRandomNumber) {
+                System.out.println(+ someThirdRandomNumber + someSecondRandomNumber + someFirstRandomNumber);
+
+
+            }
         }
     }
 
