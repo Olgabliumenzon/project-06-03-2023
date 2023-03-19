@@ -26,35 +26,44 @@ public class Excercise12 {
 
 
         if (someFirstRandomNumber < someSecondRandomNumber && someSecondRandomNumber < someThirdRandomNumber) {
-            System.out.println(+someFirstRandomNumber"  "someSecondRandomNumber"  "someThirdRandomNumber);
+            System.out.println("Smallest number: " + someFirstRandomNumber);
+            System.out.println("Middle number: " + someSecondRandomNumber);
+            System.out.println("Largest number: " + someThirdRandomNumber);
 
         } else if (someFirstRandomNumber < someThirdRandomNumber && someThirdRandomNumber < someSecondRandomNumber) {
-            System.out.println(+someFirstRandomNumber"  "someThirdRandomNumber"  "someSecondRandomNumber);
-
+            System.out.println("Smallest number: " + someFirstRandomNumber);
+            System.out.println("Middle number: " + someThirdRandomNumber);
+            System.out.println("Largest number: " + someSecondRandomNumber);
 
         } else if (someSecondRandomNumber < someFirstRandomNumber && someFirstRandomNumber < someThirdRandomNumber) {
-            System.out.println(someSecondRandomNumber"  "someFirstRandomNumber"  "someThirdRandomNumber);
+            System.out.println("Smallest number: " + someSecondRandomNumber);
+            System.out.println("Middle number: " + someFirstRandomNumber);
+            System.out.println("Largest number: " + someThirdRandomNumber);
 
         } else if (someSecondRandomNumber < someThirdRandomNumber && someThirdRandomNumber <
-            someSecondRandomNumber) {
+                someSecondRandomNumber) {
 
-            System.out.println( someSecondRandomNumber "  " someThirdRandomNumber "  " someFirstRandomNumber);
+            System.out.println("Smallest number: " + someSecondRandomNumber);
+            System.out.println("Middle number: "+ someThirdRandomNumber);
+            System.out.println("Largest number: " + someFirstRandomNumber);
 
-
-    } else if (someThirdRandomNumber < someFirstRandomNumber && someFirstRandomNumber <
-            someSecondRandomNumber) {
-
-
-        System.out.println(someThirdRandomNumber "  " someFirstRandomNumber "  " someSecondRandomNumber);
-
-
-    } else if (someThirdRandomNumber < someSecondRandomNumber && someSecondRandomNumber <
-            someFirstRandomNumber){
-
-        System.out.println(someThirdRandomNumber "  " someSecondRandomNumber "  " someFirstRandomNumber);
+        } else if (someThirdRandomNumber < someFirstRandomNumber && someFirstRandomNumber <
+                someSecondRandomNumber) {
+            System.out.println("Smallest number: " + someThirdRandomNumber);
+            System.out.println("Middle number: " + someFirstRandomNumber);
+            System.out.println("Largest number: " + someSecondRandomNumber);
 
 
+        } else if (someThirdRandomNumber < someSecondRandomNumber && someSecondRandomNumber <
+                someFirstRandomNumber) {
+            System.out.println("Smallest number: " + someThirdRandomNumber);
+            System.out.println("Middle number: " + someSecondRandomNumber);
+            System.out.println("Largest number: " + someThirdRandomNumber);
+
+        }
     }
 }
+
+
 
 
