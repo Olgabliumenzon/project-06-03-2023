@@ -58,7 +58,7 @@ public class Excercise12 {
                 someFirstRandomNumber) {
             System.out.println("Smallest number: " + someThirdRandomNumber);
             System.out.println("Middle number: " + someSecondRandomNumber);
-            System.out.println("Largest number: " + someThirdRandomNumber);
+            System.out.println("Largest number: " + someFirstRandomNumber);
 
         }
     }

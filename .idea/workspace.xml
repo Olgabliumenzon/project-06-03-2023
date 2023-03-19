@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="excercise 12 fifth attempt" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="excercise 12 sixth attempt but result in three lines" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00013" summary="conditional statement - first example">
-      <created>1678303065910</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1678303065910</updated>
     </task>
     <task id="LOCAL-00014" summary="conditional statement - example with dynamic boolean expression">
       <created>1678303833798</created>
@@ -481,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679260229182</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="excercise 12 sixth attempt but result in three lines">
+      <created>1679260699480</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1679260699480</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="while loop second example repeating" />
     <MESSAGE value="while loop another exampple" />
     <MESSAGE value="do whole first example" />
     <MESSAGE value="do-while refactored to while loop" />
@@ -521,6 +520,7 @@
     <MESSAGE value="excercise 12 first attempt" />
     <MESSAGE value="excercise 12 fourth attempt" />
     <MESSAGE value="excercise 12 fifth attempt" />
-    <option name="LAST_COMMIT_MESSAGE" value="excercise 12 fifth attempt" />
+    <MESSAGE value="excercise 12 sixth attempt but result in three lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="excercise 12 sixth attempt but result in three lines" />
   </component>
 </project>
