@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="excercise 12 sixth attempt but result in three lines">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/arrays/ArrayDemo.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="array introduction - 2nd part">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/for_loop/ForLoopExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/loops/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,20 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Bouncer disco start of excercise">
-      <created>1678461163229</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1678461163229</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Bouncer disco start of excercise with correct code">
-      <created>1678466363178</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1678466363178</updated>
     </task>
     <task id="LOCAL-00017" summary="Bouncer disco start of excercise with correct code and code reformated">
       <created>1678467274991</created>
@@ -485,7 +470,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679261051028</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="array introduction">
+      <created>1679431146485</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1679431146486</updated>
+    </task>
+    <task id="LOCAL-00065" summary="array introduction - 2nd part">
+      <created>1679431400463</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1679431400463</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,8 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="while loop another exampple" />
-    <MESSAGE value="do whole first example" />
     <MESSAGE value="do-while refactored to while loop" />
     <MESSAGE value="function - first example" />
     <MESSAGE value="function - first example with several sum calculations" />
@@ -525,6 +522,8 @@
     <MESSAGE value="excercise 12 fourth attempt" />
     <MESSAGE value="excercise 12 fifth attempt" />
     <MESSAGE value="excercise 12 sixth attempt but result in three lines" />
-    <option name="LAST_COMMIT_MESSAGE" value="excercise 12 sixth attempt but result in three lines" />
+    <MESSAGE value="array introduction" />
+    <MESSAGE value="array introduction - 2nd part" />
+    <option name="LAST_COMMIT_MESSAGE" value="array introduction - 2nd part" />
   </component>
 </project>
