@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="for loop">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/arrays/EnglishSchoolGrades.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="exercise 13 first attempt">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/Exercise13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/arrays/EnglishSchoolGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/arrays/EnglishSchoolGrades.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,19 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ff368f63-2e38-48bb-be56-8ce64816932b" />
+        <option name="url" value="https://github.com/Olgabliumenzon/project-06-03-2023.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -140,13 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Bouncer disco start of excercise with short correct code from Mariusz">
-      <created>1678470939875</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1678470939875</updated>
     </task>
     <task id="LOCAL-00019" summary="Bouncer disco version 3">
       <created>1678472289280</created>
@@ -484,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679432186590</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="for loop version 2">
+      <created>1679433501278</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1679433501278</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,8 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="function - first example" />
-    <MESSAGE value="function - first example with several sum calculations" />
     <MESSAGE value="function - first example with several sum calculations updated" />
     <MESSAGE value="excercise 11 - BouncersInDiscoStoryWithFunctions" />
     <MESSAGE value="excercise 11 - BouncersInDiscoStoryWithFunctions with adjustments" />
@@ -524,6 +536,8 @@
     <MESSAGE value="array introduction" />
     <MESSAGE value="array introduction - 2nd part" />
     <MESSAGE value="for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop" />
+    <MESSAGE value="for loop version 2" />
+    <MESSAGE value="exercise 13 first attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 13 first attempt" />
   </component>
 </project>
