@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="excercise 12 sixth attempt but result in three lines">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/PersonExample.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="classes - introduction">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/AddressExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/Exercise13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/Exercise13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/strings/StringsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/strings/StringsExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +72,13 @@
       <recent name="com.sda.she_likes_java.loops.while_loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonExample">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.arrays.ArrayDemo" />
+  <component name="RunManager" selected="Application.AddressExample1">
+    <configuration name="Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.Address" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.arrays.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.arrays.ArrayInit" />
+    <configuration name="AddressExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.AddressExample1" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.homework.arrays.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnglishSchoolGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.arrays.EnglishSchoolGrades" />
+    <configuration name="Exercise14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.Exercise14" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.arrays.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonExample" />
+        <item itemvalue="Application.AddressExample1" />
         <item itemvalue="Application.StringsExample" />
-        <item itemvalue="Application.ArrayInit" />
-        <item itemvalue="Application.EnglishSchoolGrades" />
-        <item itemvalue="Application.ArrayDemo" />
+        <item itemvalue="Application.Address" />
+        <item itemvalue="Application.Exercise14" />
+        <item itemvalue="Application.PersonExample" />
       </list>
     </recent_temporary>
   </component>
@@ -155,13 +156,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Bouncer disco version 3 correct">
-      <created>1678472383007</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1678472383007</updated>
     </task>
     <task id="LOCAL-00021" summary="Bouncer disco version 4 with negation">
       <created>1678709683634</created>
@@ -499,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679504789008</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="classes - introduction">
+      <created>1679513540379</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1679513540379</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="function - first example with several sum calculations updated" />
     <MESSAGE value="excercise 11 - BouncersInDiscoStoryWithFunctions" />
     <MESSAGE value="excercise 11 - BouncersInDiscoStoryWithFunctions with adjustments" />
     <MESSAGE value="conditions -if/else branching" />
@@ -539,6 +539,7 @@
     <MESSAGE value="for loop" />
     <MESSAGE value="for loop version 2" />
     <MESSAGE value="exercise 13 first attempt" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 13 first attempt" />
+    <MESSAGE value="classes - introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes - introduction" />
   </component>
 </project>

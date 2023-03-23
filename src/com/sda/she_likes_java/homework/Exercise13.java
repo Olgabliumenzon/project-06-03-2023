@@ -21,12 +21,12 @@ public class Exercise13 {
 
         Random gradeGenerator = new Random();
 
-        // initializing tabs with some random values
-      //  for (int index = 0; index < listOfNumbers.length; index * 3) {
-       //     tab[index] = 1 + gradeGenerator.nextInt(50);
-      //  }
-
-      //  for (int index = 0; index < tab.length; index * 3) {
+//         initializing tabs with some random values
+//        for (int index = 0; index < listOfNumbers.length; index * 3) {
+//            tab[index] = 1 + gradeGenerator.nextInt(50);
+//        }
+//
+//        for (int index = 0; index < tab.length; index * 3) {
 //        }
     }
 }
