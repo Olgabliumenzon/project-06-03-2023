@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="classes - introduction">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/AddressExample1.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="exercise14 - example of address objects in Address class">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/constructor/FullAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/Exercise13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/Exercise13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/strings/StringsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/strings/StringsExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,7 @@
       <recent name="com.sda.she_likes_java.loops.while_loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddressExample1">
+  <component name="RunManager" selected="Application.Dog">
     <configuration name="Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.Address" />
       <module name="project-06-03-2023" />
@@ -99,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.Exercise14" />
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.objects.Dog" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.classes.PersonExample" />
+    <configuration name="Exercise14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.Exercise14" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.classes.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.AddressExample1" />
         <item itemvalue="Application.StringsExample" />
         <item itemvalue="Application.Address" />
         <item itemvalue="Application.Exercise14" />
-        <item itemvalue="Application.PersonExample" />
       </list>
     </recent_temporary>
   </component>
@@ -156,13 +158,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Bouncer disco version 4 with negation">
-      <created>1678709683634</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1678709683634</updated>
     </task>
     <task id="LOCAL-00022" summary="Bouncer disco version 4 with negation and operator explained a bit">
       <created>1678710304619</created>
@@ -500,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679513540379</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="exercise14 - example of address objects in Address class">
+      <created>1679604242284</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1679604242285</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="excercise 11 - BouncersInDiscoStoryWithFunctions" />
     <MESSAGE value="excercise 11 - BouncersInDiscoStoryWithFunctions with adjustments" />
     <MESSAGE value="conditions -if/else branching" />
     <MESSAGE value="guess the number game - with do/while loop" />
@@ -540,6 +541,7 @@
     <MESSAGE value="for loop version 2" />
     <MESSAGE value="exercise 13 first attempt" />
     <MESSAGE value="classes - introduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes - introduction" />
+    <MESSAGE value="exercise14 - example of address objects in Address class" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise14 - example of address objects in Address class" />
   </component>
 </project>
