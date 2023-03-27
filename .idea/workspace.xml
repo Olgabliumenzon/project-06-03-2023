@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="generate string to string method">
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/AddressExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/AddressExample1.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="class Address added">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/HomeworkExercise15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,13 +157,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Operators explained a bit with or">
-      <created>1678711139117</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1678711139117</updated>
     </task>
     <task id="LOCAL-00025" summary="Primitive data type literals explained">
       <created>1678718282557</created>
@@ -500,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679945626162</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="class Address added">
+      <created>1679946077759</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1679946077760</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="guess the number game - with do/while loop" />
     <MESSAGE value="guess the number game - with the while loop" />
     <MESSAGE value="ability to break the loop - break instruction" />
     <MESSAGE value="ability to break the loop - break instruction with minor changes" />
@@ -540,6 +540,7 @@
     <MESSAGE value="exercise14 - example of address objects in Address class" />
     <MESSAGE value="constructor example on 27.03.2023" />
     <MESSAGE value="generate string to string method" />
-    <option name="LAST_COMMIT_MESSAGE" value="generate string to string method" />
+    <MESSAGE value="class Address added" />
+    <option name="LAST_COMMIT_MESSAGE" value="class Address added" />
   </component>
 </project>
