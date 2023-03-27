@@ -51,6 +51,8 @@ them with some values.
         System.out.println("My dream address is: %s, %s, %s, %s. ".formatted (two.street, two.city,
                 two.postalCode, two.country ));
 
+        System.out.println(one);
+
 
     }
 }
