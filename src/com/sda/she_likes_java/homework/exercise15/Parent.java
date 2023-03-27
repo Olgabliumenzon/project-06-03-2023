@@ -16,7 +16,4 @@ public class Parent {
     Person secondChild;
 
 }
-    public static void main(String[] args) {
-        System.out.println();
-        Address
-    }
+
