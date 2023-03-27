@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="exercise14 - example of address objects in Address class">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/constructor/FullAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/Dog.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="constructor example on 27.03.2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/AddressExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/AddressExample1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +61,9 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\a839562\IdeaProjects\project-06-03-2023" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sda.she_likes_java.classes" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.sda.she_likes_java.homework" />
@@ -158,13 +156,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Bouncer disco version 4 with negation and operator explained a bit">
-      <created>1678710304619</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1678710304619</updated>
     </task>
     <task id="LOCAL-00023" summary="Operators explained a bit with negations">
       <created>1678710632739</created>
@@ -502,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679604242285</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="constructor example on 27.03.2023">
+      <created>1679938015038</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1679938015040</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="excercise 11 - BouncersInDiscoStoryWithFunctions with adjustments" />
     <MESSAGE value="conditions -if/else branching" />
     <MESSAGE value="guess the number game - with do/while loop" />
     <MESSAGE value="guess the number game - with the while loop" />
@@ -542,6 +539,7 @@
     <MESSAGE value="exercise 13 first attempt" />
     <MESSAGE value="classes - introduction" />
     <MESSAGE value="exercise14 - example of address objects in Address class" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise14 - example of address objects in Address class" />
+    <MESSAGE value="constructor example on 27.03.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor example on 27.03.2023" />
   </component>
 </project>

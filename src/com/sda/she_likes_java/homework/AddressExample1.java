@@ -1,5 +1,24 @@
 package com.sda.she_likes_java.homework;
 
+public class Address {
+    String country;
+    String city;
+    String street;
+    String postalCode;
+
+    @Override
+    public String toString() {
+        return "Address{" +
+                "country='" + country + '\'' +
+                ", city='" + city + '\'' +
+                ", street='" + street + '\'' +
+                ", postalCode='" + postalCode + '\'' +
+                '}';
+    }
+
+    // it can be String postalCode if postal code holds letters or other symbols
+
+
 public class AddressExample1 {
 /*
 Put next variables inside it:
@@ -21,8 +40,6 @@ them with some values.
 
         System.out.println("My current address is: %s, %s, %s, %s. ".formatted (one.street, one.city,
                 one.postalCode, one.country ));
-
-        System.out.println("_____");
 
         System.out.println("Creating second address object");
         Address two = new Address();
