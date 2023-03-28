@@ -9,11 +9,13 @@ Create a Parent class containing the following variables:
 - secondChild (use class Person)
 */
 public class Parent {
+    // the Parent class is like concatenation of the properties, and those are the objects
+    // class has a state, some internal property and behaviors
     String firstName;
     String surname;
-    Address address;
     Person firstChild;
     Person secondChild;
+    Address address;
 
 }
 

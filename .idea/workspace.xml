@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Class Full Address deleted">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/constructor/FullPerson.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="27.03.2023 actvities in class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/AddressExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/HomeworkExercise15.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <recent name="com.sda.she_likes_java.loops.while_loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FullAddress">
+  <component name="RunManager" selected="Application.Dog">
     <configuration name="AddressExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.AddressExample1" />
       <module name="project-06-03-2023" />
@@ -142,9 +143,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.FullAddress" />
         <item itemvalue="Application.FullPerson" />
-        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.AddressExample1" />
         <item itemvalue="Application.StringsExample" />
       </list>
@@ -158,13 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Bouncer in Disco version 5">
-      <created>1678718350949</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1678718350949</updated>
     </task>
     <task id="LOCAL-00027" summary="Bouncer in Disco version 5">
       <created>1678724509556</created>
@@ -502,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679946899767</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="27.03.2023 actvities in class">
+      <created>1679947897267</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1679947897267</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ability to break the loop - break instruction" />
     <MESSAGE value="ability to break the loop - break instruction with minor changes" />
     <MESSAGE value="code fixes of 15.03.2023" />
     <MESSAGE value="homework - guessing game" />
@@ -542,6 +542,7 @@
     <MESSAGE value="generate string to string method" />
     <MESSAGE value="class Address added" />
     <MESSAGE value="Class Full Address deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Full Address deleted" />
+    <MESSAGE value="27.03.2023 actvities in class" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.03.2023 actvities in class" />
   </component>
 </project>
