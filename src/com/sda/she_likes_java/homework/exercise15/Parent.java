@@ -17,5 +17,11 @@ public class Parent {
     Person secondChild;
     Address address;
 
+    public static void main(String[] args) {
+        Address someAddress = new Address();
+        someAddress.country = "Poland";
+
+    }
+
 }
 

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="homework 15">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Address.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="AddressExample1 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,20 +157,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Bouncer in Disco version 5 doubles explained">
-      <created>1678724704303</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1678724704303</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Bouncers in Disco story">
-      <created>1678726215418</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1678726215419</updated>
     </task>
     <task id="LOCAL-00030" summary="Bouncers in Disco story">
       <created>1678727445093</created>
@@ -501,7 +487,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680031788967</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="public class address added">
+      <created>1680032960976</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1680032960976</updated>
+    </task>
+    <task id="LOCAL-00078" summary="AddressExample1 added">
+      <created>1680033187218</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1680033187218</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,8 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="code fixes of 15.03.2023" />
-    <MESSAGE value="homework - guessing game" />
     <MESSAGE value="incrementation - Friday party" />
     <MESSAGE value="incrementation /decrementaion - part II" />
     <MESSAGE value="test of weekday with if" />
@@ -541,6 +539,8 @@
     <MESSAGE value="Class Full Address deleted" />
     <MESSAGE value="27.03.2023 actvities in class" />
     <MESSAGE value="homework 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 15" />
+    <MESSAGE value="public class address added" />
+    <MESSAGE value="AddressExample1 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="AddressExample1 added" />
   </component>
 </project>
