@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="AddressExample1 added">
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="some experiments with class visibility">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise15/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/constructor/FullAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/constructor/FullAddress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <recent name="com.sda.she_likes_java.loops.while_loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddressExample1">
+  <component name="RunManager" selected="Application.FullAddress">
     <configuration name="Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.classes.Address" />
       <module name="project-06-03-2023" />
@@ -141,10 +142,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FullAddress" />
         <item itemvalue="Application.AddressExample1" />
         <item itemvalue="Application.Address" />
         <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.FullAddress" />
         <item itemvalue="Application.FullPerson" />
       </list>
     </recent_temporary>
@@ -157,13 +158,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Bouncers in Disco story">
-      <created>1678727445093</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1678727445093</updated>
     </task>
     <task id="LOCAL-00031" summary="two new packages created">
       <created>1678727953213</created>
@@ -501,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680033187218</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="some experiments with class visibility">
+      <created>1680034994535</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1680034994537</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="incrementation - Friday party" />
     <MESSAGE value="incrementation /decrementaion - part II" />
     <MESSAGE value="test of weekday with if" />
     <MESSAGE value="switch - first example with weekdays improved if/else" />
@@ -541,6 +541,7 @@
     <MESSAGE value="homework 15" />
     <MESSAGE value="public class address added" />
     <MESSAGE value="AddressExample1 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="AddressExample1 added" />
+    <MESSAGE value="some experiments with class visibility" />
+    <option name="LAST_COMMIT_MESSAGE" value="some experiments with class visibility" />
   </component>
 </project>

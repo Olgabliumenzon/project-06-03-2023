@@ -8,7 +8,9 @@ public class FullAddress {
     // 011
     public String postalCode;
 
-    // constructor
+    // constructor is a function, used to create object and init the content of that object
+    // constructor is a method to initialize your object through class
+    // constructor is used to create object and initializing its internals states, that is its variables
     public FullAddress(String country, String city, String street, String postalCode) {
         this.country = country;
         this.city = city;
