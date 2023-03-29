@@ -29,7 +29,11 @@ public class FullPerson {
 
     public void describeYourself() {
         System.out.println("Hi I'm " + name);
-    }
+
+        public static void genericDescription() {
+            System.out.println("Hi I'm " + name);
+        }
+
 
     public static void main(String[] args) {
         FullAddress address = new FullAddress("Italy", "Roma", "La Romania", "007");
@@ -40,5 +44,7 @@ public class FullPerson {
 
         FullPerson personWithoutAddress = new FullPerson("Maria", "Kowalska", 18, null);
         personWithoutAddress.describeYourself();
+
+        genericDescription();
     }
 }
