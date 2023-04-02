@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment=" experiments with class constructor" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="static method first touch">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/private_access/UsingFullPersonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_16/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_16/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_16/Exercise16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_16/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/HouseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/constructor/FullPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/constructor/FullPerson.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,39 +79,13 @@
       <recent name="com.sda.she_likes_java.loops.while_loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FullPerson">
-    <configuration name="Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.classes.Address" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HouseExample">
     <configuration name="AddressExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.AddressExample1" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.objects.Dog" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,13 +119,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HouseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.objects.HouseExample" />
+      <module name="project-06-03-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.she_likes_java.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsingFullPersonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.classes.private_access.UsingFullPersonExample" />
+      <module name="project-06-03-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.she_likes_java.classes.private_access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HouseExample" />
+        <item itemvalue="Application.UsingFullPersonExample" />
         <item itemvalue="Application.FullPerson" />
         <item itemvalue="Application.FullAddress" />
         <item itemvalue="Application.AddressExample1" />
-        <item itemvalue="Application.Address" />
-        <item itemvalue="Application.Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -153,13 +163,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00032" summary="while loop first example">
-      <created>1678730633825</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1678730633825</updated>
     </task>
     <task id="LOCAL-00033" summary="while loop second example">
       <created>1678731257436</created>
@@ -497,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680102222231</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="static method first touch">
+      <created>1680103272571</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1680103272571</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test of weekday with if" />
     <MESSAGE value="switch - first example with weekdays improved if/else" />
     <MESSAGE value="switch - month example" />
     <MESSAGE value="java time introduction" />
@@ -537,6 +546,7 @@
     <MESSAGE value="AddressExample1 added" />
     <MESSAGE value="some experiments with class visibility" />
     <MESSAGE value=" experiments with class constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value=" experiments with class constructor" />
+    <MESSAGE value="static method first touch" />
+    <option name="LAST_COMMIT_MESSAGE" value="static method first touch" />
   </component>
 </project>
