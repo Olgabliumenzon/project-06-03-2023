@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="static method first touch">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/private_access/UsingFullPersonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_16/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_16/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_16/Exercise16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_16/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/HouseExample.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="house example">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/HouseOwner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/constructor/FullPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/classes/constructor/FullPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/HouseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/objects/HouseExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,13 +158,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00033" summary="while loop second example">
-      <created>1678731257436</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1678731257436</updated>
     </task>
     <task id="LOCAL-00034" summary="while loop second example by Ramute">
       <created>1678731380211</created>
@@ -507,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680103272571</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="house example">
+      <created>1680471298040</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1680471298041</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -522,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="switch - first example with weekdays improved if/else" />
     <MESSAGE value="switch - month example" />
     <MESSAGE value="java time introduction" />
     <MESSAGE value="excercise 12 first attempt" />
@@ -547,6 +541,7 @@
     <MESSAGE value="some experiments with class visibility" />
     <MESSAGE value=" experiments with class constructor" />
     <MESSAGE value="static method first touch" />
-    <option name="LAST_COMMIT_MESSAGE" value="static method first touch" />
+    <MESSAGE value="house example" />
+    <option name="LAST_COMMIT_MESSAGE" value="house example" />
   </component>
 </project>

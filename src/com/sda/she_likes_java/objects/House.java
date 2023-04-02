@@ -8,6 +8,14 @@ public class House {
         return numberOfRooms;
     }
 
+    public int getNumberOfBathrooms() {
+        return numberOfBathrooms;
+    }
+
+    public void setNumberOfBathrooms(int numberOfBathrooms) {
+        this.numberOfBathrooms = numberOfBathrooms;
+    }
+
     public void setNumberOfRooms(int numberOfRooms) {
         this.numberOfRooms = numberOfRooms;
     }
