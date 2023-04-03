@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="house example with shared house objects and floors">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/static_modifier/WashMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/static_modifier/WashMachineFactory.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="static example with washmachine class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/static_modifier/WashMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/static_modifier/WashMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/static_modifier/WashMachineFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/static_modifier/WashMachineFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,13 +157,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00036" summary="while loop another exampple">
-      <created>1678731967415</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1678731967415</updated>
     </task>
     <task id="LOCAL-00037" summary="do whole first example">
       <created>1678733195631</created>
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680536857953</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="static example with washmachine class">
+      <created>1680544679189</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1680544679192</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="excercise 12 first attempt" />
     <MESSAGE value="excercise 12 fourth attempt" />
     <MESSAGE value="excercise 12 fifth attempt" />
     <MESSAGE value="excercise 12 sixth attempt but result in three lines" />
@@ -541,6 +540,7 @@
     <MESSAGE value="house example" />
     <MESSAGE value="house example with shared house object" />
     <MESSAGE value="house example with shared house objects and floors" />
-    <option name="LAST_COMMIT_MESSAGE" value="house example with shared house objects and floors" />
+    <MESSAGE value="static example with washmachine class" />
+    <option name="LAST_COMMIT_MESSAGE" value="static example with washmachine class" />
   </component>
 </project>
