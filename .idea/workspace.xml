@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="default modifier (no modifier)">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/private_modifier/cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/private_modifier/cars/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/private_modifier/main/Main.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="private modifier example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/private_modifier/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/private_modifier/cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/private_modifier/cars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/private_modifier/cars/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/private_modifier/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/private_modifier/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,13 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00042" summary="excercise 11 - BouncersInDiscoStoryWithFunctions with adjustments">
-      <created>1678902576512</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1678902576512</updated>
     </task>
     <task id="LOCAL-00043" summary="conditions -if/else branching">
       <created>1678904345506</created>
@@ -503,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682271413615</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="private modifier example">
+      <created>1682272680539</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1682272680539</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -518,7 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="for loop" />
     <MESSAGE value="for loop version 2" />
     <MESSAGE value="exercise 13 first attempt" />
     <MESSAGE value="classes - introduction" />
@@ -543,6 +542,7 @@
     <MESSAGE value="Date class - solution how to refer to different classes with the same simple name" />
     <MESSAGE value="public modifier - introduction" />
     <MESSAGE value="default modifier (no modifier)" />
-    <option name="LAST_COMMIT_MESSAGE" value="default modifier (no modifier)" />
+    <MESSAGE value="private modifier example" />
+    <option name="LAST_COMMIT_MESSAGE" value="private modifier example" />
   </component>
 </project>
