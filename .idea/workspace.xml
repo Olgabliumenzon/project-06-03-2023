@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Date class - how to import 3 different classes">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/name_clash/NamesClashes2.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Date class - solution how to refer to different classes with the same simple name">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/public_modifier/cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/public_modifier/drivers/ProfessionalDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/public_modifier/main/PublicMainUsage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,13 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00039" summary="function - first example">
-      <created>1678735376429</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1678735376429</updated>
     </task>
     <task id="LOCAL-00040" summary="function - first example with several sum calculations updated">
       <created>1678897507105</created>
@@ -501,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682265891801</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Date class - solution how to refer to different classes with the same simple name">
+      <created>1682268471394</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1682268471394</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="excercise 12 sixth attempt but result in three lines" />
     <MESSAGE value="array introduction" />
     <MESSAGE value="array introduction - 2nd part" />
     <MESSAGE value="for loop" />
@@ -541,6 +542,7 @@
     <MESSAGE value="static example with washmachine class" />
     <MESSAGE value="washmachine with various static examples" />
     <MESSAGE value="Date class - how to import 3 different classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date class - how to import 3 different classes" />
+    <MESSAGE value="Date class - solution how to refer to different classes with the same simple name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date class - solution how to refer to different classes with the same simple name" />
   </component>
 </project>
