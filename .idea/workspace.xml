@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="BetterCar example with visibility modifiers">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/examples/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Robot class implementation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,13 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00045" summary="guess the number game - with the while loop">
-      <created>1678907731526</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1678907731526</updated>
     </task>
     <task id="LOCAL-00046" summary="ability to break the loop - break instruction">
       <created>1678908093607</created>
@@ -501,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682274283427</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Robot class implementation">
+      <created>1682275511991</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1682275511991</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="classes - introduction" />
     <MESSAGE value="exercise14 - example of address objects in Address class" />
     <MESSAGE value="constructor example on 27.03.2023" />
     <MESSAGE value="generate string to string method" />
@@ -541,6 +537,7 @@
     <MESSAGE value="private modifier example" />
     <MESSAGE value="modifiers on methods" />
     <MESSAGE value="BetterCar example with visibility modifiers" />
-    <option name="LAST_COMMIT_MESSAGE" value="BetterCar example with visibility modifiers" />
+    <MESSAGE value="Robot class implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Robot class implementation" />
   </component>
 </project>
