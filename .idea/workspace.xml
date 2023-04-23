@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="washmachine with various static examples">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/name_clash/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/name_clash/NamesClashes.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Date class - how to import 3 different classes">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/name_clash/NamesClashes2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +66,7 @@
       <recent name="com.sda.she_likes_java.classes" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sda.she_likes_java.name_clash" />
       <recent name="com.sda.she_likes_java.homework" />
       <recent name="com.sda.she_likes_java.controls" />
       <recent name="com.sda.she_likes_java.loops.do_while" />
@@ -157,13 +157,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00038" summary="do-while refactored to while loop">
-      <created>1678733647067</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1678733647068</updated>
     </task>
     <task id="LOCAL-00039" summary="function - first example">
       <created>1678735376429</created>
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680547159596</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Date class - how to import 3 different classes">
+      <created>1682265891800</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1682265891801</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="excercise 12 fifth attempt" />
     <MESSAGE value="excercise 12 sixth attempt but result in three lines" />
     <MESSAGE value="array introduction" />
     <MESSAGE value="array introduction - 2nd part" />
@@ -541,6 +540,7 @@
     <MESSAGE value="house example with shared house objects and floors" />
     <MESSAGE value="static example with washmachine class" />
     <MESSAGE value="washmachine with various static examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="washmachine with various static examples" />
+    <MESSAGE value="Date class - how to import 3 different classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date class - how to import 3 different classes" />
   </component>
 </project>
