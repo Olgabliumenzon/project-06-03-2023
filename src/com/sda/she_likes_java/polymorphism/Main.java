@@ -11,13 +11,13 @@ public class Main {
         callAnimal(myCat);
         callAnimal(dog);
         callAnimal(new Elephant());
-        callAnimal(Elephant);
+      //  callAnimal(Elephant);
 
         Object anotherCat = new Cat();
 
         //anotherCat.makeSound();
         Animal animalCat = new Cat();
-        A
+
         Cat thirdCat = new Cat();
 
 
