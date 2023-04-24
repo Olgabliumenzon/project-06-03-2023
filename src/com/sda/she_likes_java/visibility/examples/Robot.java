@@ -1,7 +1,10 @@
 package com.sda.she_likes_java.visibility.examples;
+
 public class Robot {
+
     private String model;
     private String generation;
+
     private int xPosition;
     private int yPosition;
 
@@ -12,37 +15,39 @@ public class Robot {
         this.yPosition = yPosition;
     }
 
-
-
     public String createJavaProgram() {
-        return “””
+        return """
                 public class RoboJavProgram {
-                    public static void main(){
-
+                    public static void main() {
+                    
                     }
                 }
-                ”””;
+                """;
     }
 
-    private void doInternalTwicks(){
+    private void doInternalTwiks() {
         System.out.println("very important stuff");
     }
+
     public void moveForward() {
         xPosition++;
         System.out.println("I'm moving forward");
-        doInternalTwicks();
-        }
+        doInternalTwiks();
     }
+
     public void moveBackward() {
         yPosition--;
-        System.out.println("I'm able to move backward");
+        System.out.println("Hi, I'm able to move backward");
     }
+
     public void turnLeft() {
-        System.out.println("I'm moving left");
+        System.out.println("I'm turning right:)");
     }
+
     public void turnRight() {
-        System.out.println("I'm moving right");
+        System.out.println("I'm turning left");
     }
+
     @Override
     public String toString() {
         return "Robot{" +
