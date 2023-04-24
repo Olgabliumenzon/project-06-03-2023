@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Robot class implementation">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_17/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_17/BookLendingLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_18/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_18/Exercise18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/strings/ImmutableString.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="immuttable strings">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_19/exercise19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/polymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/polymorphism/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/polymorphism/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/examples/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/visibility/examples/Robot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <recent name="com.sda.she_likes_java.loops.do_while" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ImmutableString">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BookLendingLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.exercise_17.BookLendingLibrary" />
       <module name="project-06-03-2023" />
@@ -119,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingFullPersonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.classes.private_access.UsingFullPersonExample" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.polymorphism.Main" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.classes.private_access.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ImmutableString" />
         <item itemvalue="Application.BookLendingLibrary" />
         <item itemvalue="Application.WashMachineFactory" />
         <item itemvalue="Application.HouseExample" />
-        <item itemvalue="Application.UsingFullPersonExample" />
       </list>
     </recent_temporary>
   </component>
@@ -163,13 +162,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00047" summary="ability to break the loop - break instruction with minor changes">
-      <created>1678999611021</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1678999611021</updated>
     </task>
     <task id="LOCAL-00048" summary="code fixes of 17.03.2023">
       <created>1679158291665</created>
@@ -507,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682275694801</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="immuttable strings">
+      <created>1682345508147</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1682345508148</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -522,7 +521,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exercise14 - example of address objects in Address class" />
     <MESSAGE value="constructor example on 27.03.2023" />
     <MESSAGE value="generate string to string method" />
     <MESSAGE value="class Address added" />
@@ -547,6 +545,7 @@
     <MESSAGE value="modifiers on methods" />
     <MESSAGE value="BetterCar example with visibility modifiers" />
     <MESSAGE value="Robot class implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Robot class implementation" />
+    <MESSAGE value="immuttable strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="immuttable strings" />
   </component>
 </project>
