@@ -1,12 +1,12 @@
 package com.sda.she_likes_java.homework.exercise_20;
 
-public class Mazda extends Car {
+public class Toyota extends Car {
     @Override
     public void drive() {
-        System.out.println("Mazda is driving...");
+        System.out.println("Toyota is driving...");
     }
 
-    public boolean isNice() {
+    public boolean isSafe() {
         return true;
     }
 }
