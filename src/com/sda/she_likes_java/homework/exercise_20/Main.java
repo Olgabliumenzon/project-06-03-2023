@@ -6,5 +6,7 @@ public class Main {
         CarUtils.safeCast(new Mazda());
         CarUtils.safeCast(new Ferrari());
         CarUtils.safeCast(new Toyota());
+        BMW car = new BMW();
+        CarUtils.safeCast(car);
     }
 }
