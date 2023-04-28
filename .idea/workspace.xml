@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="interfaces example">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Moveable.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="refactor name of package">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exerise_21/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exerise_21/Diving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exerise_21/Floating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exerise_21/Flying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exerise_21/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exerise_21/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exerise_21/Submarine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exerise_21/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exerise_21/task21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Superman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Superman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -76,20 +82,7 @@
       <recent name="com.sda.she_likes_java.loops.do_while" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.sda.she_likes_java.common_behaviour.wrong_approach.Main">
-    <configuration name="ImmutableString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.strings.ImmutableString" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.sda.she_likes_java.homework.exerise_21.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.polymorphism.Main" />
       <module name="project-06-03-2023" />
@@ -129,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.sda.she_likes_java.homework.exerise_21.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.exerise_21.Main" />
+      <module name="project-06-03-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.she_likes_java.homework.exerise_21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.sda.she_likes_java.virtual_methods.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.virtual_methods.Main" />
       <module name="project-06-03-2023" />
@@ -144,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sda.she_likes_java.homework.exerise_21.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.common_behaviour.wrong_approach.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.homework.exercise_20.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.virtual_methods.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ImmutableString" />
       </list>
     </recent_temporary>
   </component>
@@ -160,20 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00053" summary="incrementation /decrementaion - part II">
-      <created>1679165081484</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1679165081484</updated>
-    </task>
-    <task id="LOCAL-00054" summary="test of weekday with if">
-      <created>1679165599320</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1679165599320</updated>
     </task>
     <task id="LOCAL-00055" summary="switch - first example with weekdays improved if/else">
       <created>1679166453763</created>
@@ -504,7 +496,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682657889094</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Moveable interface introduced">
+      <created>1682660550244</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1682660550244</updated>
+    </task>
+    <task id="LOCAL-00103" summary="refactor name of package">
+      <created>1682660890629</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1682660890629</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,8 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="homework 15" />
-    <MESSAGE value="public class address added" />
     <MESSAGE value="AddressExample1 added" />
     <MESSAGE value="some experiments with class visibility" />
     <MESSAGE value=" experiments with class constructor" />
@@ -544,6 +548,8 @@
     <MESSAGE value="exercise 20 updated" />
     <MESSAGE value="exercise 20 updated with BMW" />
     <MESSAGE value="interfaces example" />
-    <option name="LAST_COMMIT_MESSAGE" value="interfaces example" />
+    <MESSAGE value="Moveable interface introduced" />
+    <MESSAGE value="refactor name of package" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor name of package" />
   </component>
 </project>
