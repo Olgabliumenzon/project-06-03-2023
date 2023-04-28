@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="exercise 20 updated with BMW">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Ostrich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Superman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Swimmable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Tiger.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="interfaces example">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Moveable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Superman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/common_behaviour/wrong_approach/Superman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -167,13 +160,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00052" summary="incrementation - Friday party">
-      <created>1679163785744</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1679163785745</updated>
     </task>
     <task id="LOCAL-00053" summary="incrementation /decrementaion - part II">
       <created>1679165081484</created>
@@ -511,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682627409271</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="interfaces example">
+      <created>1682657889094</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1682657889094</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="27.03.2023 actvities in class" />
     <MESSAGE value="homework 15" />
     <MESSAGE value="public class address added" />
     <MESSAGE value="AddressExample1 added" />
@@ -551,6 +543,7 @@
     <MESSAGE value="exercise 20" />
     <MESSAGE value="exercise 20 updated" />
     <MESSAGE value="exercise 20 updated with BMW" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 20 updated with BMW" />
+    <MESSAGE value="interfaces example" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaces example" />
   </component>
 </project>
