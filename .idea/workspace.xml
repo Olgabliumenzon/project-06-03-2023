@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Application for getting data from Test - almost working">
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Application for getting data from Test - almost working2">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_30/script.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_30/student.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,13 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00057" summary="switch - month example">
-      <created>1679167357723</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1679167357723</updated>
     </task>
     <task id="LOCAL-00058" summary="java time introduction">
       <created>1679168519941</created>
@@ -508,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685126042083</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Application for getting data from Test - almost working2">
+      <created>1685126388921</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1685126388922</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" experiments with class constructor" />
     <MESSAGE value="static method first touch" />
     <MESSAGE value="house example" />
     <MESSAGE value="house example with shared house object" />
@@ -548,6 +549,7 @@
     <MESSAGE value="refactor name of package" />
     <MESSAGE value="exercise 21" />
     <MESSAGE value="Application for getting data from Test - almost working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Application for getting data from Test - almost working" />
+    <MESSAGE value="Application for getting data from Test - almost working2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Application for getting data from Test - almost working2" />
   </component>
 </project>
