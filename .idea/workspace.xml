@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Application for getting data from Test - almost working2">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_30/script.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_30/student.sql" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="exercise 30">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/DatabaseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/DatabaseUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/TestRecordProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/TestRecordProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/TestRecordRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/TestRecordRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_30/student.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_30/student.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00058" summary="java time introduction">
-      <created>1679168519941</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1679168519941</updated>
     </task>
     <task id="LOCAL-00059" summary="excercise 12 first attempt">
       <created>1679257473480</created>
@@ -510,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685126388922</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="exercise 30">
+      <created>1685379761248</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1685379761248</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="static method first touch" />
     <MESSAGE value="house example" />
     <MESSAGE value="house example with shared house object" />
     <MESSAGE value="house example with shared house objects and floors" />
@@ -550,6 +552,7 @@
     <MESSAGE value="exercise 21" />
     <MESSAGE value="Application for getting data from Test - almost working" />
     <MESSAGE value="Application for getting data from Test - almost working2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Application for getting data from Test - almost working2" />
+    <MESSAGE value="exercise 30" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 30" />
   </component>
 </project>
