@@ -15,3 +15,6 @@ INSERT INTO STUDENTS (NAME, SURNAME, AGE, SEX) VALUES ('EWELINA', 'A.', 40, 'FEM
 DELETE FROM STUDENTS WHERE ID = 10;
 
 ALTER TABLE STUDENTS ADD COLUMN GRADE INT NOT NULL USING 5;
+
+--change id colum s
+alter table students alter column id set generated always start with (select max(id) + 1 from students);
