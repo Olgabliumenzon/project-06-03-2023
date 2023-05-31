@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="sql modification">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbConnectionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbCredentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/Main.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="h2 in memory - example started">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudentRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,13 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00061" summary="excercise 12 fifth attempt">
-      <created>1679260229182</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1679260229182</updated>
     </task>
     <task id="LOCAL-00062" summary="excercise 12 sixth attempt but result in three lines">
       <created>1679260699480</created>
@@ -513,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685550874833</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="h2 in memory - example started">
+      <created>1685554742125</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1685554742126</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="house example with shared house objects and floors" />
     <MESSAGE value="static example with washmachine class" />
     <MESSAGE value="washmachine with various static examples" />
     <MESSAGE value="Date class - how to import 3 different classes" />
@@ -553,6 +548,7 @@
     <MESSAGE value="exercise 30" />
     <MESSAGE value="29.05.2023 exercises in class" />
     <MESSAGE value="sql modification" />
-    <option name="LAST_COMMIT_MESSAGE" value="sql modification" />
+    <MESSAGE value="h2 in memory - example started" />
+    <option name="LAST_COMMIT_MESSAGE" value="h2 in memory - example started" />
   </component>
 </project>
