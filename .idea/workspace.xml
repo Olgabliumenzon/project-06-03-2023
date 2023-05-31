@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="29.05.2023 exercises in class">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_30/package-info.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="sql modification">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/TestRecordProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/TestRecordProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_30/student.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_30/student.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,7 @@
       <recent name="com.sda.she_likes_java.loops.do_while" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestRecordProgram">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.objects_equality.ListMain" />
       <module name="project-06-03-2023" />
@@ -97,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRecordProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.database.TestRecordProgram" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.database_in_memory.Main" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.database.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.database_in_memory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sda.she_likes_java.common_behaviour.wrong_approach.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.common_behaviour.wrong_approach.Main" />
+    <configuration name="TestRecordProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.database.TestRecordProgram" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.common_behaviour.wrong_approach.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.database.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestRecordProgram" />
         <item itemvalue="Application.ListMain" />
         <item itemvalue="Application.com.sda.she_likes_java.objects_equality.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.homework.exerise_21.Main" />
-        <item itemvalue="Application.com.sda.she_likes_java.common_behaviour.wrong_approach.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -167,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00060" summary="excercise 12 fourth attempt">
-      <created>1679259985245</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1679259985245</updated>
     </task>
     <task id="LOCAL-00061" summary="excercise 12 fifth attempt">
       <created>1679260229182</created>
@@ -511,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685384205257</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="sql modification">
+      <created>1685550874832</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1685550874833</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="house example with shared house object" />
     <MESSAGE value="house example with shared house objects and floors" />
     <MESSAGE value="static example with washmachine class" />
     <MESSAGE value="washmachine with various static examples" />
@@ -551,6 +552,7 @@
     <MESSAGE value="Application for getting data from Test - almost working2" />
     <MESSAGE value="exercise 30" />
     <MESSAGE value="29.05.2023 exercises in class" />
-    <option name="LAST_COMMIT_MESSAGE" value="29.05.2023 exercises in class" />
+    <MESSAGE value="sql modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql modification" />
   </component>
 </project>
