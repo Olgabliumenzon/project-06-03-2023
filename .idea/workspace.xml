@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="list example:&#10;- ordered&#10;- cna contain duplicated (according to equal() method)">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/sets/Main.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="map example:&#10;- contains values under the keys (value is represented by key)&#10;- any type can be type of the key&#10;- any type can be type of the value">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/maps/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/sets/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,7 @@
       <recent name="com.sda.she_likes_java.loops.do_while" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.sda.she_likes_java.collections.sets.Main">
+  <component name="RunManager" selected="Application.com.sda.she_likes_java.collections.maps.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.database_in_memory.Main" />
       <module name="project-06-03-2023" />
@@ -104,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRecordProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.database.TestRecordProgram" />
+    <configuration name="com.sda.she_likes_java.collections.lists.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.collections.lists.Main" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.database.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.collections.lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sda.she_likes_java.collections.lists.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.collections.lists.Main" />
+    <configuration name="com.sda.she_likes_java.collections.maps.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.collections.maps.Main" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.collections.lists.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.collections.maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sda.she_likes_java.collections.maps.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.collections.sets.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.collections.lists.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.homework.exercise_22.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestRecordProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -174,13 +176,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00066" summary="for loop">
-      <created>1679432186590</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1679432186590</updated>
     </task>
     <task id="LOCAL-00067" summary="for loop version 2">
       <created>1679433501278</created>
@@ -518,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685729805577</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="set example:&#10;- unordered&#10;- cannot contain duplicated (according to equal() method)">
+      <created>1685730533667</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1685730533667</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -533,8 +535,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="public modifier - introduction" />
-    <MESSAGE value="default modifier (no modifier)" />
     <MESSAGE value="private modifier example" />
     <MESSAGE value="modifiers on methods" />
     <MESSAGE value="BetterCar example with visibility modifiers" />
@@ -558,6 +558,8 @@
     <MESSAGE value="providing genetic structure to play with collections" />
     <MESSAGE value="list examples" />
     <MESSAGE value="list example:&#10;- ordered&#10;- cna contain duplicated (according to equal() method)" />
-    <option name="LAST_COMMIT_MESSAGE" value="list example:&#10;- ordered&#10;- cna contain duplicated (according to equal() method)" />
+    <MESSAGE value="set example:&#10;- unordered&#10;- cannot contain duplicated (according to equal() method)" />
+    <MESSAGE value="map example:&#10;- contains values under the keys (value is represented by key)&#10;- any type can be type of the key&#10;- any type can be type of the value" />
+    <option name="LAST_COMMIT_MESSAGE" value="map example:&#10;- contains values under the keys (value is represented by key)&#10;- any type can be type of the key&#10;- any type can be type of the value" />
   </component>
 </project>
