@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="h2 in memory - example started">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudentRepository.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="crud repository for AccenttureStudent">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudentsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/ClosingDbConnectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/exceptions/DecryptionIssueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/exceptions/HSMConnectionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/exceptions/TryWithFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_19/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/ShoppingCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +30,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -64,9 +77,17 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;SQL&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sda.she_likes_java.database_in_memory" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\a839562\IdeaProjects\project-06-03-2023" />
     </key>
@@ -81,7 +102,7 @@
       <recent name="com.sda.she_likes_java.loops.do_while" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.sda.she_likes_java.homework.exercise_22.Main">
     <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.objects_equality.ListMain" />
       <module name="project-06-03-2023" />
@@ -121,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sda.she_likes_java.homework.exerise_21.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.exerise_21.Main" />
+    <configuration name="com.sda.she_likes_java.homework.exercise_22.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.exercise_22.Main" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.homework.exerise_21.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.homework.exercise_22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sda.she_likes_java.homework.exercise_22.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestRecordProgram" />
         <item itemvalue="Application.ListMain" />
         <item itemvalue="Application.com.sda.she_likes_java.objects_equality.Main" />
-        <item itemvalue="Application.com.sda.she_likes_java.homework.exerise_21.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -165,13 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00062" summary="excercise 12 sixth attempt but result in three lines">
-      <created>1679260699480</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1679260699480</updated>
     </task>
     <task id="LOCAL-00063" summary="excercise 12 sixth attempt but result in three lines">
       <created>1679261051028</created>
@@ -509,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685554742126</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="crud repository for AccenttureStudent">
+      <created>1685556075161</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1685556075162</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="static example with washmachine class" />
     <MESSAGE value="washmachine with various static examples" />
     <MESSAGE value="Date class - how to import 3 different classes" />
     <MESSAGE value="Date class - solution how to refer to different classes with the same simple name" />
@@ -549,6 +569,7 @@
     <MESSAGE value="29.05.2023 exercises in class" />
     <MESSAGE value="sql modification" />
     <MESSAGE value="h2 in memory - example started" />
-    <option name="LAST_COMMIT_MESSAGE" value="h2 in memory - example started" />
+    <MESSAGE value="crud repository for AccenttureStudent" />
+    <option name="LAST_COMMIT_MESSAGE" value="crud repository for AccenttureStudent" />
   </component>
 </project>

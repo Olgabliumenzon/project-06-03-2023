@@ -71,9 +71,3 @@ public class AccentureStudent {
         this.sex = sex;
     }
 }
-
-
-
-
-
-
