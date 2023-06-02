@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="providing genetic structure to play with collections">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/Trousers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/Main.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="list example:&#10;- ordered&#10;- cna contain duplicated (according to equal() method)">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/sets/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/ShoppingCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,20 +90,7 @@
       <recent name="com.sda.she_likes_java.loops.do_while" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.sda.she_likes_java.collections.lists.Main">
-    <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.objects_equality.ListMain" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.objects_equality.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.sda.she_likes_java.collections.sets.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.database_in_memory.Main" />
       <module name="project-06-03-2023" />
@@ -145,6 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.sda.she_likes_java.collections.sets.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.collections.sets.Main" />
+      <module name="project-06-03-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.she_likes_java.collections.sets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.sda.she_likes_java.homework.exercise_22.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.exercise_22.Main" />
       <module name="project-06-03-2023" />
@@ -160,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sda.she_likes_java.collections.sets.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.collections.lists.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.homework.exercise_22.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestRecordProgram" />
-        <item itemvalue="Application.ListMain" />
       </list>
     </recent_temporary>
   </component>
@@ -176,20 +174,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00064" summary="array introduction">
-      <created>1679431146485</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1679431146486</updated>
-    </task>
-    <task id="LOCAL-00065" summary="array introduction - 2nd part">
-      <created>1679431400463</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1679431400463</updated>
     </task>
     <task id="LOCAL-00066" summary="for loop">
       <created>1679432186590</created>
@@ -520,7 +504,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685726544497</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="list examples">
+      <created>1685729712151</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1685729712151</updated>
+    </task>
+    <task id="LOCAL-00114" summary="list example:&#10;- ordered&#10;- cna contain duplicated (according to equal() method)">
+      <created>1685729805577</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1685729805577</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -535,8 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Date class - how to import 3 different classes" />
-    <MESSAGE value="Date class - solution how to refer to different classes with the same simple name" />
     <MESSAGE value="public modifier - introduction" />
     <MESSAGE value="default modifier (no modifier)" />
     <MESSAGE value="private modifier example" />
@@ -560,6 +556,8 @@
     <MESSAGE value="h2 in memory - example started" />
     <MESSAGE value="crud repository for AccenttureStudent" />
     <MESSAGE value="providing genetic structure to play with collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="providing genetic structure to play with collections" />
+    <MESSAGE value="list examples" />
+    <MESSAGE value="list example:&#10;- ordered&#10;- cna contain duplicated (according to equal() method)" />
+    <option name="LAST_COMMIT_MESSAGE" value="list example:&#10;- ordered&#10;- cna contain duplicated (according to equal() method)" />
   </component>
 </project>
