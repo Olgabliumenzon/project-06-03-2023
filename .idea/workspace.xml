@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="crud repository for AccenttureStudent">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudentsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/ClosingDbConnectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/exceptions/DecryptionIssueException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/exceptions/HSMConnectionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/exceptions/TryWithFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_19/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/package-info.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="providing genetic structure to play with collections">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/Trousers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/AccentureStudentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/DbInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database_in_memory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_22/ShoppingCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -102,7 +92,7 @@
       <recent name="com.sda.she_likes_java.loops.do_while" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.sda.she_likes_java.homework.exercise_22.Main">
+  <component name="RunManager" selected="Application.com.sda.she_likes_java.collections.lists.Main">
     <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.objects_equality.ListMain" />
       <module name="project-06-03-2023" />
@@ -142,6 +132,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.sda.she_likes_java.collections.lists.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.collections.lists.Main" />
+      <module name="project-06-03-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.she_likes_java.collections.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.sda.she_likes_java.homework.exercise_22.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.exercise_22.Main" />
       <module name="project-06-03-2023" />
@@ -155,26 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sda.she_likes_java.objects_equality.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.objects_equality.Main" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.objects_equality.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sda.she_likes_java.collections.lists.Main" />
         <item itemvalue="Application.com.sda.she_likes_java.homework.exercise_22.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestRecordProgram" />
         <item itemvalue="Application.ListMain" />
-        <item itemvalue="Application.com.sda.she_likes_java.objects_equality.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -186,13 +176,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00063" summary="excercise 12 sixth attempt but result in three lines">
-      <created>1679261051028</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1679261051028</updated>
     </task>
     <task id="LOCAL-00064" summary="array introduction">
       <created>1679431146485</created>
@@ -530,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685556075162</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="providing genetic structure to play with collections">
+      <created>1685726544497</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1685726544497</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,7 +535,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="washmachine with various static examples" />
     <MESSAGE value="Date class - how to import 3 different classes" />
     <MESSAGE value="Date class - solution how to refer to different classes with the same simple name" />
     <MESSAGE value="public modifier - introduction" />
@@ -570,6 +559,7 @@
     <MESSAGE value="sql modification" />
     <MESSAGE value="h2 in memory - example started" />
     <MESSAGE value="crud repository for AccenttureStudent" />
-    <option name="LAST_COMMIT_MESSAGE" value="crud repository for AccenttureStudent" />
+    <MESSAGE value="providing genetic structure to play with collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="providing genetic structure to play with collections" />
   </component>
 </project>
