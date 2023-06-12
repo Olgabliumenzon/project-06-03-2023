@@ -24,6 +24,9 @@ public class ListSecondExample {
         printOnlySomeNames(names);
         System.out.println("----------------");
         printNamesWithSemicolon(names);
+        System.out.println("Let's add dome name to the list");
+        addName(names);
+        printNames(names);
     }
 
     public static void printNames(List<String> names) {
@@ -47,6 +50,9 @@ public class ListSecondExample {
         }
         System.out.println(result);
     }
-
+    // add name
+    public static void addName(List<String> stringList) {
+        stringList.add("Kitija");
+    }
     // finding item inside list
 }

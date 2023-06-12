@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="map example:&#10;- contains values under the keys (value is represented by key)&#10;- any type can be type of the key&#10;- any type can be type of the value">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/ListSecondExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_23/ClassroomJournal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_23/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/exercise_23/task_exercise23" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="updating classroom Journal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/maps/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/maps/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/ListSecondExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/ListSecondExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,13 +174,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00068" summary="exercise 13 first attempt">
-      <created>1679504789006</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1679504789008</updated>
     </task>
     <task id="LOCAL-00069" summary="classes - introduction">
       <created>1679513540379</created>
@@ -523,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685732241493</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="updating classroom Journal">
+      <created>1686556198537</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1686556198542</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -538,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="private modifier example" />
     <MESSAGE value="modifiers on methods" />
     <MESSAGE value="BetterCar example with visibility modifiers" />
     <MESSAGE value="Robot class implementation" />
@@ -563,6 +557,7 @@
     <MESSAGE value="list example:&#10;- ordered&#10;- cna contain duplicated (according to equal() method)" />
     <MESSAGE value="set example:&#10;- unordered&#10;- cannot contain duplicated (according to equal() method)" />
     <MESSAGE value="map example:&#10;- contains values under the keys (value is represented by key)&#10;- any type can be type of the key&#10;- any type can be type of the value" />
-    <option name="LAST_COMMIT_MESSAGE" value="map example:&#10;- contains values under the keys (value is represented by key)&#10;- any type can be type of the key&#10;- any type can be type of the value" />
+    <MESSAGE value="updating classroom Journal" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating classroom Journal" />
   </component>
 </project>
