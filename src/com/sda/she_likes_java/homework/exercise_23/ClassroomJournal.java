@@ -1,4 +1,4 @@
-package com.sda.she_likes_java.homework.exercise_23;
+/*package com.sda.she_likes_java.homework.exercise_23;
 
 import java.util.*;
 
@@ -44,3 +44,5 @@ public class ClassroomJournal {
         return List.of();
     }
 }
+
+ */
