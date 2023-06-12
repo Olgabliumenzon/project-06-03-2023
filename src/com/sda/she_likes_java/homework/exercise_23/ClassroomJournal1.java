@@ -2,14 +2,14 @@
 
 import java.util.*;
 
-public class ClassroomJournal {
+public class ClassroomJournal1 {
 
     private final Set<Pupil> pupils;
     private final Set<Subject> subjects;
     private final Map<Pupil, Set<Subject>> pupilSubjects;
     private final Map<Pupil, List<SubjectGrades>> pupilsGradeFromSubject;
 
-    public ClassroomJournal() {
+    public ClassroomJournal1() {
         pupils = new HashSet<>();
         subjects = new HashSet<>();
         pupilSubjects = new HashMap<>();

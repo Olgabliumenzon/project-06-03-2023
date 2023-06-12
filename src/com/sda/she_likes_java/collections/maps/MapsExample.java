@@ -12,7 +12,7 @@ public class MapsExample {
     public static void main(String[] args) {
         // Wrappers: Long, Integer
         // for collections
-        int a = 0;
+        int a = 1444444;
         Integer aInteger = null;
 //        List<int> integers;
         List<Integer> intNumbers = new ArrayList<>();
