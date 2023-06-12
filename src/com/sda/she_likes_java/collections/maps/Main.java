@@ -35,7 +35,7 @@ public class Main {
         System.out.println("key=[stupid key] " + trousersMap.get("stupid key"));
 
         System.out.println("Let's iterate the map");
-        // Map.Entry represent key + value at once
+        // Map.Entry represent key + value at once; map is made of many entries
         for (Map.Entry<String, Trousers> item : trousersMap.entrySet()) {
             System.out.println("Key: " + item.getKey());
             System.out.println("Value: " + item.getValue());
