@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="homework 24">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/DictionaryProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/MyDictionaries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/MyGreatDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/WordsBilingual.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Custom example with dictionaries">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/DictionaryProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/collections/lists/DictionaryProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,13 +174,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00073" summary="class Address added">
-      <created>1679946077759</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1679946077760</updated>
     </task>
     <task id="LOCAL-00074" summary="Class Full Address deleted">
       <created>1679946899767</created>
@@ -521,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686601276779</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Custom example with dictionaries">
+      <created>1686604554831</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1686604554831</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -536,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exercise tasks added" />
     <MESSAGE value="exercise 20" />
     <MESSAGE value="exercise 20 updated" />
     <MESSAGE value="exercise 20 updated with BMW" />
@@ -561,6 +557,7 @@
     <MESSAGE value="findPersonsByName() example" />
     <MESSAGE value="maps example" />
     <MESSAGE value="homework 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 24" />
+    <MESSAGE value="Custom example with dictionaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Custom example with dictionaries" />
   </component>
 </project>
