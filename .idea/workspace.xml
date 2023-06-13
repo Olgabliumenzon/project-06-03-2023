@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="natural sorting for Sorted person based on implementation of Comparable interface">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/exceptions/BankConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/exceptions/BankExample.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Exceptions introduction">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/homework/BootcampTestTask1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/AddressRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/database/AddressRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,7 @@
       <recent name="com.sda.she_likes_java.loops.do_while" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BankExample">
+  <component name="RunManager" selected="Application.BootcampTestTask1">
     <configuration name="BankExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.exceptions.BankExample" />
       <module name="project-06-03-2023" />
@@ -105,34 +106,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BootcampTestTask1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BootcampTestTask1" />
+      <module name="project-06-03-2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootcampTestTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.homework.BootcampTestTask1" />
+      <module name="project-06-03-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.she_likes_java.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.sorting.CollectionSorting" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DictionaryProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.collections.lists.DictionaryProgram" />
-      <module name="project-06-03-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.collections.lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.sorting.SimpleArraySorting" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
@@ -159,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BootcampTestTask1" />
+        <item itemvalue="Application.BootcampTestTask1 (1)" />
         <item itemvalue="Application.BankExample" />
         <item itemvalue="Application.SortingPersonsMain" />
         <item itemvalue="Application.CollectionSorting" />
-        <item itemvalue="Application.SimpleArraySorting" />
-        <item itemvalue="Application.DictionaryProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -175,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00077" summary="public class address added">
-      <created>1680032960976</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1680032960976</updated>
     </task>
     <task id="LOCAL-00078" summary="AddressExample1 added">
       <created>1680033187218</created>
@@ -519,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686633503266</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Exceptions introduction">
+      <created>1686642221672</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1686642221674</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="interfaces example" />
     <MESSAGE value="Moveable interface introduced" />
     <MESSAGE value="refactor name of package" />
     <MESSAGE value="exercise 21" />
@@ -559,6 +553,7 @@
     <MESSAGE value="Custom example with dictionaries - reading input from user" />
     <MESSAGE value="sorting introduction" />
     <MESSAGE value="natural sorting for Sorted person based on implementation of Comparable interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="natural sorting for Sorted person based on implementation of Comparable interface" />
+    <MESSAGE value="Exceptions introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions introduction" />
   </component>
 </project>
