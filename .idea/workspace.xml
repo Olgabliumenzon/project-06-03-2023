@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="Custom example with dictionaries - reading input from user">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/sorting/SimpleArraySorting.java" afterDir="false" />
+    <list default="true" id="614132ea-4f9a-4cf2-8005-f1b0ab124a96" name="Changes" comment="sorting introduction">
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/sorting/SortedPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/she_likes_java/sorting/SortingPersonsMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,7 @@
       <recent name="com.sda.she_likes_java.loops.do_while" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionSorting">
+  <component name="RunManager" selected="Application.SortingPersonsMain">
     <configuration name="CollectionSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.sorting.CollectionSorting" />
       <module name="project-06-03-2023" />
@@ -117,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.collections.maps.MapsExample" />
+    <configuration name="SimpleArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.sorting.SimpleArraySorting" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.she_likes_java.collections.maps.*" />
+          <option name="PATTERN" value="com.sda.she_likes_java.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.sorting.SimpleArraySorting" />
+    <configuration name="SortingPersonsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.she_likes_java.sorting.SortingPersonsMain" />
       <module name="project-06-03-2023" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortingPersonsMain" />
         <item itemvalue="Application.CollectionSorting" />
         <item itemvalue="Application.SimpleArraySorting" />
         <item itemvalue="Application.DictionaryProgram" />
         <item itemvalue="Application.com.sda.she_likes_java.homework.exercise_24.Main" />
-        <item itemvalue="Application.MapsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -174,13 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678120904942</updated>
-    </task>
-    <task id="LOCAL-00075" summary="27.03.2023 actvities in class">
-      <created>1679947897267</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1679947897267</updated>
     </task>
     <task id="LOCAL-00076" summary="homework 15">
       <created>1680031788966</created>
@@ -518,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686605539124</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="sorting introduction">
+      <created>1686630083294</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1686630083298</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -533,7 +534,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exercise 20 updated" />
     <MESSAGE value="exercise 20 updated with BMW" />
     <MESSAGE value="interfaces example" />
     <MESSAGE value="Moveable interface introduced" />
@@ -558,6 +558,7 @@
     <MESSAGE value="homework 24" />
     <MESSAGE value="Custom example with dictionaries" />
     <MESSAGE value="Custom example with dictionaries - reading input from user" />
-    <option name="LAST_COMMIT_MESSAGE" value="Custom example with dictionaries - reading input from user" />
+    <MESSAGE value="sorting introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting introduction" />
   </component>
 </project>
